@@ -1,5 +1,5 @@
 {
-  "name": "jquery-resizable-dom",
+  "name": "@piworks/jquery-resizable-dom",
   "version": "0.32.0",
   "description": "A small jquery component to make components resizable",
   "main": "./dist/jquery-resizable.min.js",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RickStrahl/jquery-resizable"
+    "url": "https://github.com/piworks/jquery-resizable"
   },
   "keywords": [
     "resizable",
@@ -40,7 +40,10 @@
   "author": "Rick Strahl, West Wind Technologies",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RickStrahl/jquery-resizable/issues"
+    "url": "https://github.com/piworks/jquery-resizable/issues"
   },
-  "homepage": "https://github.com/RickStrahl/jquery-resizable"
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/piworks/jquery-resizable"
 }
