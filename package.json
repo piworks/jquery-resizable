@@ -1,6 +1,6 @@
 {
   "name": "@piworks/jquery-resizable-dom",
-  "version": "0.32.0",
+  "version": "0.32.1",
   "description": "A small jquery component to make components resizable",
   "main": "./dist/jquery-resizable.min.js",
   "devDependencies": {

@@ -72,7 +72,7 @@ interface JQuery {
      *
      * @param options Either an object passing the options for initialization, or "destroy" as a command.
      */
-    resizable(options?: JQueryResizeable.ResizeableOptions | "destroy"): void;
+    resizable2(options?: JQueryResizeable.ResizeableOptions | "destroy"): void;
     /**
      * Initializes the resizeable feature on a table. Note that it is important to add certain css settings for the ".resizer" class (see comment in this .d.ts file).
      *
