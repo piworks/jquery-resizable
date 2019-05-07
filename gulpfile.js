@@ -1,4 +1,12 @@
-﻿var gulp = require('gulp');
+﻿/// <reference path="../bower_components/jquery/dist/jquery.js" />
+/*
+jquery-resizable
+Version 0.32 - 5/5/2018
+© 2015-2018 Rick Strahl, West Wind Technologies
+www.west-wind.com
+Licensed under MIT License
+*/
+var gulp = require('gulp');
 var rimraf = require('gulp-rimraf');
 var uglify = require('gulp-uglify');
 var rename = require('gulp-rename');
